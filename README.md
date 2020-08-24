@@ -6,15 +6,15 @@
 
 Είσοδος και δεδομένα: Το αρχικό ποσό στο λογαριασμό της εταιρείας είναι 0 ευρώ και ο αρχικός αριθμός συναλλαγής είναι 0. Οι ακόλουθες σταθερές θα ορίζονται σε ένα αρχείο δηλώσεων:
 
-Ntel=8 τηλεφωνητές, Ncash=4 ταμίες
-Nseat= 10 θέσεις
-NzoneA=5 σειρές, NzoneB= 10 σειρές, NzoneC= 10 σειρές
-PzoneA=20%, PzoneB= 4 0%, PzoneC= 4 0%,
-CzoneA= 30 ευρώ, CzoneB= 25 ευρώ, CzoneC= 20 ευρώ,
-Nseatlow=1 θέση, Nseathigh=5 θέσεις
-tseatlow=5 sec, tseathigh=10 sec
-tcashlow=2 sec, tcashhigh=4 sec
-Pcardsucces=90%
+- Ntel=8 τηλεφωνητές, Ncash=4 ταμίες
+- Nseat= 10 θέσεις
+- NzoneA=5 σειρές, NzoneB= 10 σειρές, NzoneC= 10 σειρές
+- PzoneA=20%, PzoneB= 4 0%, PzoneC= 4 0%,
+- CzoneA= 30 ευρώ, CzoneB= 25 ευρώ, CzoneC= 20 ευρώ,
+- Nseatlow=1 θέση, Nseathigh=5 θέσεις
+- tseatlow=5 sec, tseathigh=10 sec
+- tcashlow=2 sec, tcashhigh=4 sec
+- Pcardsucces=90%
 
 Το πρόγραμμά σας θα δέχεται δύο (ακριβώς) παραμέτρους με το πλήθος των πελατών προς εξυπηρέτηση, Ncust, και τον τυχαίο σπόρο για τη γεννήτρια των τυχαίων αριθμών.
 
