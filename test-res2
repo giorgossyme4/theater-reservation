@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc p3170153-p3170031-res2.h p3170153-p3170031-res2.c -o main.out -lpthread
+./main.out 100 1000
